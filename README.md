@@ -111,7 +111,16 @@ With the DNS being flushed and reset, I was then able to ping the correct mainfr
 <img width="515" height="263" alt="Screenshot 2025-11-09 at 6 31 35 PM" src="https://github.com/user-attachments/assets/b4ec1410-dea4-4938-87b9-c49a5e86e070" />
 
 
+<h2>DNS Conclusion</h2>
 
+DNS is what makes the internet useable. Without DNS, to use the internet a user would literally have to type a bunch of IP addresses. 
+
+We went over 
+
+- What is DNS
+- How it works
+- Why it is used
+- How it works 
 
 
 
